@@ -19,7 +19,7 @@ I highly recommend this book to anyone wanting to learn Python.
 - **Chapter 10: Files and Exceptions**
 - **Chapter 11: Testing Your Code**
 
-  ## Part II: Projects
+## Part II: Projects
 
 - **Chapter 12: A Ship That Fires Bullets**
 - **Chapter 13: Aliens!**
