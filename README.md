@@ -1,7 +1,7 @@
 # Python Crash Course - Selected Exercises
 
 This repository contains my solutions to selected exercises from *Python Crash Course* by Eric Matthes.  
-Each chapter folder includes 2 to 3 main exercises that helped me practice key concepts.  
+Each chapter folder includes a few exercises that helped me practice key concepts.  
 I highly recommend this book to anyone wanting to learn Python.
 
 
