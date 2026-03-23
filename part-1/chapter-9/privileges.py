@@ -33,10 +33,7 @@ class Admin(User):
     """
 
     def __init__(self, f_name, l_name, age):
-        """
-        Initialize attributes from User superclass and then 
-        initialize admin privileges.
-        """
+        """Initialise attributes from User superclass and then initialise admin privileges."""
         super().__init__(f_name, l_name, age)
         self.privileges = Privileges()
         
